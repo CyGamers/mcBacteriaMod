@@ -1,0 +1,14 @@
+{
+    "pools": [
+        {
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "BacteriaMod:BacteriaMod_Bacteria",
+                    "weight": 1
+                }
+            ]
+        }
+	]
+}
